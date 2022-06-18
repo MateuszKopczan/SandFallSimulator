@@ -1,0 +1,10 @@
+Klawisze funkcyjne symulatora:
+    Q - wyjscie
+    R - reset
+    Spacja - zatrzymania/wznowienie pracy symulatora
+    Strzalka w gore - zwiekszenie predkosci symulacji
+    Strzalka w dol - zmniejszenie predkosci symulacji
+    Strzalka w prawo - nastepna plansza
+    Strzalka w lewo - poprzednia plansza
+    1 - piasek generowany nad naczyniem
+    2 - piasek generowany na calej krawe dzi
